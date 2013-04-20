@@ -1,0 +1,11 @@
+D:\Jpro\server\source\ex02\Constants.java
+D:\Jpro\server\source\ex02\HttpServer1.java
+D:\Jpro\server\source\ex02\HttpServer2.java
+D:\Jpro\server\source\ex02\PrimitiveServlet.java
+D:\Jpro\server\source\ex02\Request.java
+D:\Jpro\server\source\ex02\RequestFacade.java
+D:\Jpro\server\source\ex02\Response.java
+D:\Jpro\server\source\ex02\ResponseFacade.java
+D:\Jpro\server\source\ex02\ServletProcessor1.java
+D:\Jpro\server\source\ex02\ServletProcessor2.java
+D:\Jpro\server\source\ex02\StaticResourceProcessor.java
